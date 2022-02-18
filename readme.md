@@ -1,5 +1,7 @@
 # Tier 1 Week 5 - Part 2
 
+__STRETCH GOAL:__ Use CSS style classes vs element names to do your styling, except for adding the margin to the `body`. That is a good thing to add to every CSS file, and it should use the `body` HTML tag name.
+
 This week, we'll be exploring objects by creating an application to help maintain a record collection. We will be creating objects using `object literal` syntax.
 
 ## Topics Covered
@@ -15,7 +17,7 @@ Add all CSS through a Stylesheet. Do not use inline styles.
 
 Update the HTML:
 
-- Place the existing `h1` inside a `header` element. 
+- Place the existing `h1` inside a `header` element.
 - Add an `h2` element into the `header` that says `YOUR NAME's Record Shop`.
 - Place the existing `p` inside a `main` element.
 
@@ -27,8 +29,8 @@ Add a Stylesheet:
 - Give the `main` a light grey background color.
 - Look up the CSS `background-image` property to learn how to use the provided `record.png` as the background image on your page with a relative path.
 - Look up CSS `background-repeat` to learn how to fill the body of the page with a repeating image.
-- Look up CSS `margin` and `padding`. 
-  - Give the `body` a margin of `0`. (This removes the whitespace around the edges of the page.) 
+- Look up CSS `margin` and `padding`.
+  - Give the `body` a margin of `0`. (This removes the whitespace around the edges of the page.)
   - Give the `main` padding of `1em`. (Curious about `em`? Look up CSS units.)
 
 Here's an example of what the style could look like:
